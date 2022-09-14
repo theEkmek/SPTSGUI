@@ -1,6 +1,6 @@
---Ekmek SPTS GUI 
---𝙴𝚔𝚖𝚎𝚔#0031
---@velicangaming
+--SHRXPE SPTS GUI 
+--SHRXPE#6666
+--@qSwesia
 
 local MainGui = Instance.new("ScreenGui")
 local Gradiant = Instance.new("Frame")
